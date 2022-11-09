@@ -1,0 +1,58 @@
+
+.quadrado{
+    height: 995px;
+    width: 300px;
+    background: rgb(228, 87, 6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+
+}
+.circulo{
+    width: 180px;
+    height: 180px;
+    border-radius: 180px;
+    background: rgb(109, 5, 5);
+    margin-top: 200px;
+    margin-left: 55px;
+}
+img{
+    width: 160px;
+    height: 160px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 160px;
+}
+.texto1{
+ margin-top: 280px;
+ margin-left: 360px;
+ font-size: 45px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+span{
+    color: rgb(104, 5, 5);
+}
+.texto2{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+h3{
+    color: black;
+    font-size: 24px;
+    margin-top: -60px;
+}
+h4{
+    font-size: 20px;
+    color: gray;
+    margin-top: 70px;
+}
+.sobre{
+    text-align: center;
+    color: aliceblue;
+}
+.menu{
+    margin-top: 120px;
+    text-align: center;
+    color: rgba(194, 192, 192, 0.74);
+}
